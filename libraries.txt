@@ -1,0 +1,12 @@
+Libraries:
+
+1. images - composer require "spatie/laravel-medialibrary:^8.0.0"
+
+2. formating numbers (example 10001 will be 10k) - yarn2 add numeral
+
+in app.js - window.numeral = require('numeral');
+
+3. so people can stream video in browser - 
+3.1 sudo apt install ffmpeg
+3.2 composer required pbmedia/laravel-ffmpeg 
+
