@@ -6,11 +6,6 @@ use Illuminate\Support\Facades\Schema;
 
 class CreateVideosTable extends Migration
 {
-    /**
-     * Run the migrations.
-     *
-     * @return void
-     */
     public function up()
     {
         Schema::create('videos', function (Blueprint $table) {
@@ -26,11 +21,6 @@ class CreateVideosTable extends Migration
         });
     }
 
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
     public function down()
     {
         Schema::dropIfExists('videos');

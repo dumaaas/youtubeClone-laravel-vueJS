@@ -31,8 +31,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="081a3951-5dcb-4f71-84d1-88521c0226e5" name="Default Changelist" comment="Practising Git from PhpStorm">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SubscriptionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SubscriptionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrustHosts.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Listeners/User/CreateUserChannel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Listeners/User/CreateUserChannel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/ChannelFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/ChannelFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/CommentFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/CommentFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/SubscriptionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/SubscriptionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/VideoFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/VideoFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_12_225014_create_channels_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_12_225014_create_channels_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_12_225022_create_subscriptions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_12_225022_create_subscriptions_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_12_230541_create_sessions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_12_230541_create_sessions_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_13_223744_create_videos_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_13_223744_create_videos_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_14_211950_create_jobs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_14_211950_create_jobs_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_16_001653_create_votes_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_16_001653_create_votes_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_17_221550_create_comments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_17_221550_create_comments_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,10 +334,10 @@
       <screen x="70" y="142" width="1296" height="741" />
     </state>
     <state x="313" y="234" width="800" height="563" key="Vcs.Push.Dialog.v2/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605825723179" />
-    <state x="499" y="427" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605825646671">
+    <state x="499" y="427" width="428" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605826995621">
       <screen x="70" y="142" width="1296" height="741" />
     </state>
-    <state x="499" y="427" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605825646671" />
+    <state x="499" y="427" width="428" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605826995621" />
     <state x="253" y="234" width="988" height="476" key="dock-window-1" timestamp="1605391072973">
       <screen x="70" y="142" width="1296" height="741" />
     </state>
