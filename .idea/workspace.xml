@@ -24,15 +24,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="081a3951-5dcb-4f71-84d1-88521c0226e5" name="Default Changelist" comment="Practising Git from PhpStorm">
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ChannelController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ChannelController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605825470657</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practising Git from PhpStorm">
+      <created>1605825702567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605825702567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +253,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -288,6 +295,14 @@
       <screen x="70" y="142" width="1296" height="741" />
     </state>
     <state x="70" y="142" width="1286" height="741" key="FileDocumentManager.FileCacheConflict/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605227080262" />
+    <state x="477" y="196" width="472" height="640" key="RollbackChangesDialog" timestamp="1605825888228">
+      <screen x="70" y="142" width="1296" height="741" />
+    </state>
+    <state x="477" y="196" width="472" height="640" key="RollbackChangesDialog/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605825888228" />
+    <state x="313" y="234" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1605825723179">
+      <screen x="70" y="142" width="1296" height="741" />
+    </state>
+    <state x="313" y="234" width="800" height="563" key="Vcs.Push.Dialog.v2/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605825723179" />
     <state x="499" y="427" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605825646671">
       <screen x="70" y="142" width="1296" height="741" />
     </state>

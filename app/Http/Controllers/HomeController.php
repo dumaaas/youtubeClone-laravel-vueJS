@@ -27,8 +27,11 @@ class HomeController extends Controller
         $query = request()->search;
         $videos = collect();
         $channels = collect();
-        $videos = Video::where('title', 'LIKE', "%{$query}%")->orWhere('description', 'LIKE', "%{$query}%")->paginate(5);
-        $channels = Channel::where('name', 'LIKE', "%{$query}%")->orWhere('description', 'LIKE', "%{$query}%")->paginate(5);
+
+        if($query!=null){
+            $videos = Video::where('title', 'LIKE', "%{$query}%")->orWhere('description', 'LIKE', "%{$query}%")->paginate(5);
+            $channels = Channel::where('name', 'LIKE', "%{$query}%")->orWhere('description', 'LIKE', "%{$query}%")->paginate(5);
+        }
 
         return view('home')->with([
             'videos' => $videos,
