@@ -24,15 +24,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="081a3951-5dcb-4f71-84d1-88521c0226e5" name="Default Changelist" comment="">
+    <list default="true" id="081a3951-5dcb-4f71-84d1-88521c0226e5" name="Default Changelist" comment="Practising Git from PhpStorm">
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ChannelController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ChannelController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,14 @@
         <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dumaaas &lt;markodumnic8@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -211,17 +219,53 @@
       <workItem from="1605646808922" duration="12006000" />
       <workItem from="1605725036551" duration="11051000" />
     </task>
+    <task id="LOCAL-00001" summary="Practising Git from PhpStorm">
+      <created>1605825470657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605825470657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Practising Git from PhpStorm" />
     <option name="LAST_COMMIT_MESSAGE" value="Practising Git from PhpStorm" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="314" width="903" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605308464818">
@@ -232,6 +276,10 @@
       <screen x="70" y="142" width="1296" height="741" />
     </state>
     <state x="451" y="270" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605651873140" />
+    <state x="170" y="242" width="1096" height="541" key="DiffContextDialog" timestamp="1605825385808">
+      <screen x="70" y="142" width="1296" height="741" />
+    </state>
+    <state x="170" y="242" width="1096" height="541" key="DiffContextDialog/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605825385808" />
     <state x="353" y="290" width="719" height="452" key="EditFileWatcherDialog" timestamp="1605221750692">
       <screen x="70" y="142" width="1296" height="741" />
     </state>
@@ -240,6 +288,10 @@
       <screen x="70" y="142" width="1296" height="741" />
     </state>
     <state x="70" y="142" width="1286" height="741" key="FileDocumentManager.FileCacheConflict/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605227080262" />
+    <state x="499" y="427" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605825646671">
+      <screen x="70" y="142" width="1296" height="741" />
+    </state>
+    <state x="499" y="427" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.142.1296.741/1366.115.1024.768/2390.0.1920.1080@70.142.1296.741" timestamp="1605825646671" />
     <state x="253" y="234" width="988" height="476" key="dock-window-1" timestamp="1605391072973">
       <screen x="70" y="142" width="1296" height="741" />
     </state>

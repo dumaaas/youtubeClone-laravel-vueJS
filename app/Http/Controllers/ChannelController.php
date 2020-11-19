@@ -36,7 +36,7 @@ class ChannelController extends Controller
 
     public function practicingGit()
     {
-
+        $hej = 2;
     }
 
 }
