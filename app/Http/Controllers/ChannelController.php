@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 use App\Http\Requests\Channels\UpdateChannelRequest;
 use App\Models\Channel;
-use Illuminate\Http\Request;
 
 class ChannelController extends Controller
 {
@@ -33,6 +32,11 @@ class ChannelController extends Controller
         ]);
 
         return redirect()->back();
+    }
+
+    public function practicingGit()
+    {
+
     }
 
 }
